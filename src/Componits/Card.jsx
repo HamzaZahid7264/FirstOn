@@ -1,5 +1,6 @@
 import React from 'react'
 import {Bookmark} from 'lucide-react'
+import '../Componits/Card.css'
 
 const Card = ({imge, Name,Time, Job, WTime, Level, Price}) => {
   return (
